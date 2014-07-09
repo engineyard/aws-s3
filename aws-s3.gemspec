@@ -8,8 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = AWS::S3::VERSION
   spec.authors       = ["Josh Lane"]
   spec.email         = ["me@joshualane.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Client library for Amazon's Simple Storage Service's REST API}
   spec.homepage      = ""
   spec.license       = "MIT"
 
