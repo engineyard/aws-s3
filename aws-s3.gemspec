@@ -5,7 +5,7 @@ require 'aws/s3/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "aws-s3"
-  spec.version       = AWS::S3::Version
+  spec.version       = AWS::S3::VERSION
   spec.authors       = ["Josh Lane"]
   spec.email         = ["me@joshualane.com"]
   spec.summary       = %q{TODO: Write a short summary. Required.}
